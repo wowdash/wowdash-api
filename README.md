@@ -1,2 +1,2 @@
-# wowdash-api
-API Backend for WoW-Dash
+# WoW-Dash-API
+API-Backend for WoW-Dashboard.
