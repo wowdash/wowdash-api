@@ -1,0 +1,6 @@
+{
+    "require": {
+        "brick/math": "^0.8.8",
+        "j4mie/idiorm": "^1.5"
+    }
+}
